@@ -1,4 +1,4 @@
-# Embedded-conservation-ethnographies
+# Conservation Organisation Ethnographies
 This dataset comprises PhD theses, jounral articles, books and reports that are about organsational ethnographies conducted with and on conservation organisations.
 
 
